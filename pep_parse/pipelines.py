@@ -1,7 +1,6 @@
 import csv
 import datetime as dt
 
-from itemadapter import ItemAdapter
 
 from pep_parse.constants import BASE_DIR, DATETIME_FORMAT
 

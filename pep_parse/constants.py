@@ -1,4 +1,3 @@
-import re
 from pathlib import Path
 
 PATTERN_PEP = r'^PEP (?P<number>\d+) – (?P<name>.+)$'
